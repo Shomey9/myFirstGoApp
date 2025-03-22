@@ -1,0 +1,6 @@
+{
+    "feeds": [
+        "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+        "https://hnrss.org/frontpage"
+    ]
+}
